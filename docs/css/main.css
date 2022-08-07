@@ -1,0 +1,12 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #070;
+    color: lime;
+}
+nav {
+    padding: 10px;
+    border: solid 1px lime;
+}
+main {
+    padding: 10px;
+}
